@@ -1,0 +1,11 @@
+.hire-card{
+    width: 300px;
+    background-color: blanchedalmond;
+    padding: 10px;
+    border: 2px solid cornflowerblue;
+    border-radius: 5px;
+    text-align: center;
+}
+.text{
+    font-weight: 700;
+}

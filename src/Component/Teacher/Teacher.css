@@ -1,0 +1,18 @@
+
+.teacher-card{
+    border: 2px solid cornflowerblue;
+    padding: 20px 0;
+    text-align: center;
+    border-radius: 5px;
+    background-color: bisque;
+}
+.teacher-card button{
+    padding: 5px 50px;
+    font-weight: 700;
+    font-size: 20px;
+    border: 2px solid cornflowerblue;
+}
+.teacher-card button:hover{
+    background-color: cornflowerblue;
+    color: white;
+}

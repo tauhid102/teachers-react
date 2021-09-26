@@ -1,0 +1,28 @@
+.header h1,h2,p{
+    text-align: center;
+}
+.header nav{
+    background-color: cornflowerblue;
+    line-height: 50px;
+}
+.header nav a{
+    text-decoration: none;
+    margin: 15px;
+    color: rgb(238, 238, 238);
+    font-size: 20px; 
+    border: 2px ;
+    padding: 5px;  
+    border: 2px solid cornflowerblue; 
+    align-items: flex-end;
+}
+.header nav a:hover{
+    border: 2px solid white;
+}
+.header-details{
+    background-color: blanchedalmond;
+    margin: auto;
+    border: 2px solid cornflowerblue;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
